@@ -1,11 +1,11 @@
 ### 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Podcast/Solving problems/Open-Source tools/Vulnerability Research, Recon
-- 🌱 I’m currently learning Go Lang, NodeJS
+- 🔭 I’m currently working on Podcast/Solving problems/Open-Source tools/Vulnerability Research
+- 🌱 I’m currently learning Go Lang, NodeJS, PHP, Python
 
 - 📫 How to reach me: @iambeingjoker
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I can't MeMe
 
 
 <!--
