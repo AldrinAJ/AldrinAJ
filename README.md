@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**AldrinAJ/AldrinAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+### 
 
 ______________¶¶¶
 _____________¶¶_¶¶¶¶
@@ -37,6 +32,12 @@ ___¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 __¶¶¶¶¶¶¶¶¶_¶¶¶¶¶¶¶¶
 __¶¶________¶¶¶____¶¶
 ____¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
+
+<!--
+**AldrinAJ/AldrinAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 Here are some ideas to get you started:
