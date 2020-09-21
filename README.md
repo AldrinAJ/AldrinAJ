@@ -1,6 +1,6 @@
 ### 
 - 🔭 I’m currently working on Podcast/Solving problems/Open-Source tools/Vulnerability Research
-- 🌱 I’m currently learning Go Lang, NodeJS, PHP, Python
+- 🌱 I’m currently learning GoLang, NodeJS, PHP, Python
 
 - 📫 How to reach me: @iambeingjoker
 - ⚡ Fun fact: I can't MeMe
