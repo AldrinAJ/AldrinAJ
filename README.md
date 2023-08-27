@@ -2,7 +2,7 @@
 - 🔭 Podcast/Solving problems/Tinkering Open-Source tools/Vulnerability Research
 - 🌱 NodeJS, PHP, Shell, Python
 
-- 📫 How to reach me: @iambeingjoker
+- 📫 How to reach me: @
 - ⚡ Fun fact: I can't MeMe
 
 
